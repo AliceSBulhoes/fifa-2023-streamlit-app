@@ -7,7 +7,6 @@ Este projeto é uma aplicação web baseada em Streamlit, projetada para visuali
 - **Painéis Interativos**: Explore os dados do FIFA 2023 com visualizações dinâmicas.
 - **Análise de Dados**: Veja estatísticas de jogadores e times com opções de filtros e ordenação.
 - **Framework Streamlit**: Construído com Streamlit para uma experiência de usuário fluida e responsiva.
-- **Personalizável**: Facilmente expansível ou modificável para incluir novos conjuntos de dados ou funcionalidades.
 
 ## Instalação 📁
 
@@ -49,7 +48,7 @@ Este projeto é uma aplicação web baseada em Streamlit, projetada para visuali
 fifa-2023-streamlit-app/
 │
 ├── 1_home.py                # Script principal da aplicação Streamlit
-├── data/                    # (Opcional) Diretório para armazenar conjuntos de dados
+├── data/                    # Diretório para armazenar conjuntos de dados
 ├── pages/                   # Páginas do projeto
 └── README.md                # Este arquivo
 ```
