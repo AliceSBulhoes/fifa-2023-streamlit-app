@@ -29,10 +29,7 @@ Este projeto é uma aplicação web baseada em Streamlit, projetada para visuali
    source venv/bin/activate  # No Windows: venv\Scripts\activate
    ```
 
-3. **Instalar Dependências**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+3. **Instalar Dependências**
 
 4. **Executar a Aplicação**:
    ```bash
@@ -52,6 +49,7 @@ Este projeto é uma aplicação web baseada em Streamlit, projetada para visuali
 fifa-2023-streamlit-app/
 │
 ├── 1_home.py                # Script principal da aplicação Streamlit
-├── data/                 # (Opcional) Diretório para armazenar conjuntos de dados
-└── README.md             # Este arquivo
+├── data/                    # (Opcional) Diretório para armazenar conjuntos de dados
+├── pages/                   # Páginas do projeto
+└── README.md                # Este arquivo
 ```
